@@ -1,0 +1,6 @@
+# Hola Python
+Proyecto de ejemplo para practicar Git y GitHub.
+## Ejecución
+```bash
+python3 hola.py
+```
